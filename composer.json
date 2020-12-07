@@ -1,0 +1,16 @@
+{
+    "name": "bizfly/billing",
+    "type": "library",
+    "description": "Bizfly billing integrated package",
+    "keywords": ["bizfly","billing","php","vccorp"],
+    "homepage": "https://bizfly.vn",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sonnn",
+            "email": "sonnn.uct@gmail.com",
+            "homepage": "",
+            "role": "owner"
+        }
+    ],
+}
