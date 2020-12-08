@@ -5,12 +5,8 @@
     "keywords": ["bizfly","billing","php","vccorp"],
     "homepage": "https://bizfly.vn",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "sonnn",
-            "email": "sonnn.uct@gmail.com",
-            "homepage": "",
-            "role": "owner"
-        },
-    ],
+    "autoload": {
+        "psr-4": {"Bizfly\\": "src/"}
+    },
+    "minimum-stability": "stable"
 }
